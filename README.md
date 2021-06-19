@@ -1,4 +1,3 @@
 # Amazon-Scrapper-Reference
-Amazon Scrapper Implemeted From A Youtube Tutorial
+Amazon Scrapper.
 
-Most Importantly THis also Has that Twisted Element/File In it
